@@ -1,0 +1,54 @@
+Title: Kontakt
+
+----
+
+Text: 
+
+## Sledujte nás na Twitteru
+
+naplacato
+(twitter: @naplacato)
+
+Lotrandor
+(twitter: @lotrandor)
+
+Člen týmu
+(twitter: @lotrandor)
+
+Člen týmu
+(twitter: @lotrandor)
+
+----
+
+Intro: 
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  icon: contact.svg
+  text: Podělte se s námi o své nápady
+  url: mailto:support@naplacato.cz
+  linktext: Napište nám!
+- 
+  title: Fórum
+  icon: forum.svg
+  text: Přidejte se ke naší komunitě
+  url: http://forum.naplacato.cz
+  linktext: Navštivte naše forum!
+- 
+  title: GitHub
+  icon: github.svg
+  text: >
+    Chyby které objevíte můžete hlásit
+    na GitHubu
+  url: https://github.com/naplacato
+  linktext: Naplacato na Githubu!
+- 
+  title: Dokumenty
+  icon: docs.svg
+  text: Prohlédněte si naše návody a pokyny
+  url: http://naplacato.cz/dokumenty
+  linktext: Dokumentace

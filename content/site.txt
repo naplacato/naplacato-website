@@ -1,0 +1,13 @@
+Title: naplacato.cz
+
+----
+
+Author: Petr Kulda
+
+----
+
+Description: This is just plain copy of Kirby's Starterkit.
+
+----
+
+Copyright: © 2017
